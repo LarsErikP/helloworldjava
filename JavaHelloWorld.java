@@ -4,5 +4,6 @@ public class JavaHelloWorld
   {
     System.out.println("Java Hello World");
     System.out.println("Helloooooooooooo");
+    System.out.println("Dete var kult");
   }
 }
